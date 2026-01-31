@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-31",
+  "courseName": "Social Design Foundations",
+  "courseDescription": "Основы Social Design: Canvas, Creative Constraints, Мотивации",
+  "companyContext": "jetstyle",
+  "levels": [
+    {
+      "id": "1",
+      "name": "Foundations",
+      "description": "Основы Social Design Canvas и принципы кооперативных форматов",
+      "modules": [
+        {
+          "id": "1.1",
+          "title": "Social Design Canvas",
+          "slug": "canvas-intro",
+          "path": "lesson-modules/1-foundations/1.1-canvas-intro/CLAUDE.md",
+          "command": "sd-1-1",
+          "description": "6 элементов канваса: Contributors, Contributions, Motivations, Enablers, Rules, Tools",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "1.2",
+          "title": "Creative Constraints",
+          "slug": "creative-constraints",
+          "path": "lesson-modules/1-foundations/1.2-creative-constraints/CLAUDE.md",
+          "command": "sd-1-2",
+          "description": "Паттерн NaNoWriMo: простые правила как драйвер участия",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "1.3",
+          "title": "Мотивации участников",
+          "slug": "motivations",
+          "path": "lesson-modules/1-foundations/1.3-motivations/CLAUDE.md",
+          "command": "sd-1-3",
+          "description": "5 типов мотивации: внутренняя, социальная, практическая, идеологическая, репутационная",
+          "estimatedMinutes": 25
+        }
+      ]
+    }
+  ]
+}
